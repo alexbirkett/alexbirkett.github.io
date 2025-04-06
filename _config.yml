@@ -18,10 +18,8 @@ description: >- # this means to ignore newlines until "baseurl:"
    I wrote these notes to help me remember what I've done. Maybe they are useful for you too.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alexbirkett
 github_username:  alexbirkett
 linkedin_username:  alexbirkett
-google_analytics: UA-131750032-1
 # Build settings
 markdown: kramdown
 theme: minima
